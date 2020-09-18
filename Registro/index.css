@@ -1,0 +1,17 @@
+:root {
+    --azul-oscuro: rgba(40, 63, 159, 0.92)
+}
+
+.bg-azul-oscuro {
+    background-color: var(--azul-oscuro);
+}
+
+
+span {
+    font-family: "Abril Fatface";
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
+}

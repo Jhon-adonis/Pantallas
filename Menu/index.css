@@ -1,0 +1,58 @@
+:root {
+    --azul-oscuro: rgb(192,204,218)
+}
+
+.bg-azul-oscuro {
+    background-color: var(--azul-oscuro);
+   
+}
+b{
+font-size: 14px;
+color: white;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Abril Fatface";
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+}
+
+p {
+    font-family: "Abril Fatface";
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+blockquote {
+    font-family: "Abril Fatface";
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+pre {
+    font-family: "Abril Fatface";
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
+}
+
+span {
+    font-family: "Abril Fatface";
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
+}
